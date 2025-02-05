@@ -1,3 +1,3 @@
-NOMBRE: Natalia
-APELLIDO: Ordoñez Valencia
-FECHA DE NACIMIENTO: 2005-06-29
+Nombre: Natalia 
+Apellidos: Ordoñez Valencia
+Fecha de Nacimiento: 2005-06-29
